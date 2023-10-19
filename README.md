@@ -1,4 +1,4 @@
-![logo](https://github.com/srt-1909/srt-1909/commit/c3912c4bc35ff70366586985fa43bf057a8b285f#commitcomment-130439093)
+![logo](https://github.com/srt-1909/srt-1909/blob/main/Github.Banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Ramesh Thakkar</h1>
 <h3 align="center">👋 Hello! I'm Sachin Ramesh Thakkar ,a passionate Business Development Associate with a strong foundation in Node.js and backend development. 🚀 📊 In the world of business development, I thrive on identifying opportunities, building strategic partnerships, and driving growth. My technical expertise in Node.js and backend development adds a unique dimension to my approach.</h3>
 
