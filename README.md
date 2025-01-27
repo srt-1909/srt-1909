@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sachinthakkar1992002@gmail.com**
 
-- ⚡ Fun fact : **I am focusing**
+- ⚡ Fun fact : **I communicate better with APIs than with humans.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
